@@ -1,5 +1,9 @@
 # Graficador de Funciones
 
+<img src="./test/prueba_numeros_chicos.png">
+
+<img src="./test/prueba_numeros_grandes.png">
+
 Por cada par de funciones f(n) y g(n), escribir si f(n) = Ω(g(n)) , si f(n) = O(g(n)), o bien si f(n) = Θ(g(n)) o decir si ninguna relaci´on se cumple. Desarrollar de manera a veriﬁcar los resultados obtenidos. Utilizar alguna librer´ıa Java para graﬁcar las funciones, de manera a corroborar las cotas obtenidas.
 
 1. | f(n) | g(n) |
