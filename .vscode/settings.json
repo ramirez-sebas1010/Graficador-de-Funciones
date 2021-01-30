@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "./library/xchart-3.6.5.jar",
+    "./library/xchart-demo-3.6.5.jar"
+  ]
+}
